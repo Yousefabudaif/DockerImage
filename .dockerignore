@@ -1,0 +1,11 @@
+# Go build cache
+/build
+/bin
+/target
+/dist
+*.log
+*.env
+.git
+.gitignore
+.DS_Store
+users_saved
